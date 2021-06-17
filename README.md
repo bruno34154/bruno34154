@@ -18,6 +18,11 @@
 #### Seja bem vindo ao meu perfil, aqui postarei os projetos que estou desenvolvendo.
 
 
+<i>Meus linkedin:</i>
+
+<a href="https://www.linkedin.com/in/bruno-santos-9bb2941aa/"><img src="https://github.com/bruno34154/bruno34154/blob/main/linkedin.png" widdth="50px" height="50px"/></a> 
+
+
 
 
 
