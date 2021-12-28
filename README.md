@@ -10,11 +10,15 @@
 <p><img src = "https://github.com/bruno34154/bruno34154/blob/main/html5.png" alt="HTML" title="HTML" width="50px" height="50px"  /> 
  <img src = "https://github.com/bruno34154/bruno34154/blob/main/css.png" alt="CSS" title="CSS" width="50px" height="60px"  />
   <img src = "https://github.com/bruno34154/bruno34154/blob/main/javascript.png" alt="Javascript" title="Javascript" width="70px" height="60px"  />
+   <img src = "https://github.com/bruno34154/bruno34154/blob/main/logo-node-js-1024.png" alt="Node.js" title="Node.js" width="70px" height="60px"  />
+  <img src = "https://github.com/bruno34154/bruno34154/blob/main/Git-Logo-2Color.png" alt="GIT" title="GIT" width="80px" height="60px"  />
 </p>
+
 
 #### tecnologias que tenho base de conhecimento:
 
-<p><img src = "https://github.com/bruno34154/bruno34154/blob/main/c.png" alt="C" title="C" width="60px" height="50px"  /> 
+<p><img src = "https://github.com/bruno34154/bruno34154/blob/main/c.png" alt="C" title="C" width="60px" height="50px"/>  
+ <img src = "https://github.com/bruno34154/bruno34154/blob/main/kisspng-the-c-programming-language-computer-icons-comput-programming-5acadc2e16ef78.280689641523244078094.png" alt="C++" title="C++" float = "rif" width="60px" height="50px"  />
  <img src = "https://github.com/bruno34154/bruno34154/blob/main/java.png" alt="JAVA" title="Java" width="60px" height="60px"  /> 
 </p>
 
