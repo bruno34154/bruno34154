@@ -24,12 +24,13 @@
 * <p>English (advanced level) <img src = "https://github.com/bruno34154/bruno34154/blob/main/estados-unidos.png" alt="HTML" title="HTML" width="20px" height="20px"  /></p> 
 * <P>French (basic level) <img src = "https://github.com/bruno34154/bruno34154/blob/main/franca.png" alt="HTML" title="HTML" width="20px" height="20px"  /> </p>
 
-#### Welcome to my profile!!, i going to posting here my projects!!.
+#### Welcome to my profile!!, i going to here posting my projects!!.
 
+## You can contact me for this platforms 
+<a href="https://www.linkedin.com/in/bruno-santos-9bb2941aa/"><img src="https://github.com/bruno34154/bruno34154/blob/main/linkedin.png" title="linkedin" widdth="50px" height="50px"/></a>
+<a href="https://mailto:www.brunomesenga@gmail.com"><img src="https://github.com/bruno34154/bruno34154/blob/main/gmail.png" title="Gmail" widdth="50px" height="50px"/></a> 
+<a href="https://www.instagram.com/estude_by_yourself/"><img src="https://github.com/bruno34154/bruno34154/blob/main/instagram.png" title="Instagram" widdth="50px" height="50px"/></a>
 
-<i>My linkedin:</i>
-
-<a href="https://www.linkedin.com/in/bruno-santos-9bb2941aa/"><img src="https://github.com/bruno34154/bruno34154/blob/main/linkedin.png" title="Clique aqui" widdth="50px" height="50px"/></a> 
 
 
 
