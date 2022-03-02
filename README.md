@@ -1,7 +1,7 @@
 # hey there👋
  My name is bruno, i'm 20 years, i'm a developer student and i love this area (by the way i'm loking for oportunities)😁
  
-## Academic formation:
+## Educational formation:
   * <p> High-school graduate <img src = "https://github.com/bruno34154/bruno34154/blob/main/verifica.png" alt="HTML" title="HTML" width="20px" height="20px"  /> <p>
   * <p>Tecnico em informatica - Ceep Regis Pacheco, graduate. <img src = "https://github.com/bruno34154/bruno34154/blob/main/verifica.png" alt="HTML" title="HTML" width="20px" height="20px"  /></p>
   * <p>Graduating Sistemas de informação - UESB <img src = "https://github.com/bruno34154/bruno34154/blob/main/loading.png" alt="HTML" title="HTML" width="20px" height="20px"  /></p>.
@@ -24,9 +24,9 @@
 * <p>English (advanced level) <img src = "https://github.com/bruno34154/bruno34154/blob/main/estados-unidos.png" alt="HTML" title="HTML" width="20px" height="20px"  /></p> 
 * <P>French (basic level) <img src = "https://github.com/bruno34154/bruno34154/blob/main/franca.png" alt="HTML" title="HTML" width="20px" height="20px"  /> </p>
 
-#### Welcome to my profile!!, i going to here posting my projects!!.
+#### Welcome to my profile!!, i going to post here my projects!!.
 
-## You can contact me for this platforms 
+## You can contact me on this platforms 
 <a href="https://www.linkedin.com/in/bruno-santos-9bb2941aa/"><img src="https://github.com/bruno34154/bruno34154/blob/main/linkedin.png" title="linkedin" widdth="50px" height="50px"/></a>
 <a href="https://mailto:www.brunomesenga@gmail.com"><img src="https://github.com/bruno34154/bruno34154/blob/main/gmail.png" title="Gmail" widdth="50px" height="50px"/></a> 
 <a href="https://www.instagram.com/estude_by_yourself/"><img src="https://github.com/bruno34154/bruno34154/blob/main/instagram.png" title="Instagram" widdth="50px" height="50px"/></a>
