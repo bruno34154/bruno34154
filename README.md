@@ -1,5 +1,5 @@
 # hey there👋
- My name is bruno, i'm 21 years, i'm a web developer and i love this area (by the way i'm loking for oportunities)😁
+ My name is bruno, i'm 23 years, i'm a web developer and i love this area (by the way i'm loking for oportunities)😁
  
 ## Educational formation:
   * <p> High-school graduate <img src = "https://github.com/bruno34154/bruno34154/blob/main/verifica.png" alt="HTML" title="HTML" width="20px" height="20px"  /> <p>
